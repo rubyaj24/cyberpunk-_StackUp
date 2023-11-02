@@ -1,11 +1,11 @@
 ![StackUp Banner]([https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg])
-# Project Name
+# Task Management App
 Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
+1. Amaljith [https://github.com/rubyaj24]
+2. Mehbin [https://github.com/Mehbin0]
 ## Team Id
-Team id here
+cyberpunk-
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
